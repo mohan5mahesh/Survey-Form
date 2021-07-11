@@ -1,0 +1,13 @@
+body {
+  margin: 2%;
+}
+
+span {
+  color: red;
+}
+.radio {
+  text-align: center !important;
+}
+.side-heading {
+  font-weight: bold;
+}
